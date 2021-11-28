@@ -8,7 +8,7 @@ const imagesArray = [
 ];
 const textArray = [
   "Modern And Classic Kids Clothes",
-  "Large Selection Of Women's Clothing ",
+  "Big Selection Of Women's Clothing ",
   "Many nice women's bags",
   "shoes for all purposes ",
   "office clothes for everyone ",

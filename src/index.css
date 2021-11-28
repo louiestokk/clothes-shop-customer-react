@@ -143,6 +143,9 @@ li {
 .main button {
   margin-right: 0.5rem;
 }
+.main h4 {
+  max-width: 90%;
+}
 .slider-container {
   margin-top: 1rem;
   display: flex;

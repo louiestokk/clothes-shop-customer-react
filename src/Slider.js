@@ -13,7 +13,7 @@ const Slider = () => {
         </h3>
         <Link to="/products">
           <button type="button" className="btn">
-            Explore
+            Explore more
           </button>
         </Link>
       </div>
